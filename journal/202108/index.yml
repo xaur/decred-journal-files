@@ -1,3 +1,24 @@
 - id: 202108.1
   title: Transmutive State
   author: saender
+
+- id: 202108.2
+  notes: Decrediton LN Receive page https://github.com/decred/decrediton/pull/3537
+
+- id: 202108.3
+  notes: Politeia proposal differ https://github.com/decred/politeiagui/pull/2524
+
+- id: 202108.4
+  notes: dcrandroid Privacy intro dark https://github.com/planetdecred/dcrandroid/pull/574
+
+- id: 202108.5
+  notes: dcrandroid Receive QR dark https://github.com/planetdecred/dcrandroid/pull/577
+
+- id: 202108.6
+  notes: godcr Mixed filter https://github.com/planetdecred/godcr/pull/582
+
+- id: 202108.7
+  notes: dcrdata Markets dashboard https://dcrdata.decred.org/market
+
+- id: 202108.8
+  notes: odd sell volume spikes https://medium.com/@tacorevenge/the-suppressor-part-1-war-of-attrition-3081a61b202b
