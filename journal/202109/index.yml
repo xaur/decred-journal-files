@@ -1,3 +1,27 @@
 - id: 202109.1
   title: Fourier's Square
   author: saender
+
+- id: 202109.2
+  notes: Decrediton LN Channels page https://github.com/decred/decrediton/pull/3543
+
+- id: 202109.3
+  notes: Politeia dark mode icon. Shoutout to our designers @MariaPleshkova and @linnutee! https://github.com/decred/politeiagui/issues/2497#issuecomment-887530713
+
+- id: 202109.4
+  notes: DCRDEX candlestick chart https://github.com/decred/dcrdex/pull/1208
+
+- id: 202109.5
+  notes: DCRDEX Chinese translation preview https://github.com/decred/dcrdex/pull/1207
+
+- id: 202109.6
+  notes: Decred Wallet (iOS) Dark Overview https://github.com/planetdecred/dcrios/pull/851
+
+- id: 202109.7
+  notes: GoDCR seed education https://github.com/planetdecred/godcr/pull/587
+
+- id: 202109.8
+  notes: Decred Bison doing pool research https://blockcommons.red/post/dcr-on-chain-3/
+
+- id: 202109.9
+  notes: DCRDEX September 2021 trading volume https://explorer.dcrdata.org/market?chart=volume&xc=dcrdex&bin=1h
