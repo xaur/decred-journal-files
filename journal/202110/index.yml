@@ -1,0 +1,28 @@
+- id: 202110.1
+  title: Remote Node Outpost
+  author: saender
+  notes: Had Iceland in mind, land of the ice and volcanos but somewhat more remote and extraterrestrial (contrast between artificial and organic), also rifts under the snow indicating subtle hazardous activity. Parallel to Kubrick's monolith w/ skull bashing monkeys in Space Odyssey 2001 but in a cold climate. A Kubrick's node.
+
+- id: 202110.2
+  notes: Decrediton LN Overview https://github.com/decred/decrediton/pull/3551
+
+- id: 202110.3
+  notes: Politeia stats change reasons https://github.com/decred/politeiagui/pull/2625
+
+- id: 202110.4
+  notes: DCRDEX markets overview https://github.com/decred/dcrdex/pull/1232
+
+- id: 202110.5
+  notes: GoDCR Proposals view https://github.com/planetdecred/godcr/pull/664
+
+- id: 202110.6
+  notes: Politeia third year https://blockcommons.red/publication/politeia-at-3/
+
+- id: 202110.7
+  notes: Decred hashrate May-Oct 2021 https://github.com/bochinchero/dcrsnapshots/tree/main/2021_10
+
+- id: 202110.8
+  notes: Decred ticket pool May-Oct 2021 https://github.com/bochinchero/dcrsnapshots/tree/main/2021_10
+
+- id: 202110.9
+  notes: DCRDEX October 2021 trading volume https://explorer.dcrdata.org/market?chart=volume&xc=dcrdex&bin=1h
