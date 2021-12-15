@@ -1,0 +1,28 @@
+- id: 202111.1
+  title: Remote Node Outpost II
+  author: saender
+  notes: 
+
+- id: 202111.2
+  notes: dcrd optimizations https://github.com/decred/dcrd/pull/2787/commits/ff68ec7b4398a74f70074fe9cc146768221bf174
+
+- id: 202111.3
+  notes: vspd admin view with dcrd status https://github.com/decred/vspd/pull/302
+
+- id: 202111.4
+  notes: DCRDEX fee payment in any asset https://twitter.com/chappjc/status/1457751673267437572
+
+- id: 202111.5
+  notes: network daily hashrate https://github.com/bochinchero/dcrsnapshots/tree/main/2021_11
+
+- id: 202111.6
+  notes: PoS ticket price and buying volume, screenshot of https://dcrstats.com/
+
+- id: 202111.7
+  notes: StakeShuffle mixed and unspent DCR https://github.com/bochinchero/dcrsnapshots/tree/main/2021_11
+
+- id: 202111.8
+  notes: DCRDEX daily trading volume https://github.com/bochinchero/dcrsnapshots/tree/main/2021_11
+
+- id: 202111.9
+  notes: DCRDEX monthly trading volume
