@@ -1,0 +1,13 @@
+- id: 202112.1
+  title: Nodetropolis
+  author: saender
+  notes: Interlinked pockets of node dwellers forming a community.
+
+- id: 202112.2
+  notes: Ticket pool value (DCR) https://github.com/bochinchero/dcrsnapshots/tree/main/2021-12
+
+- id: 202112.3
+  notes: Monthly adjusted transaction volume (DCR), with small edit to remove the last half-month bar to avoid reader's confusion https://github.com/bochinchero/dcrsnapshots/tree/main/2021-12
+
+- id: 202112.4
+  notes: DCRDEX monthly trading volume (DCR), with small edit to remove the last half-month bar to avoid reader's confusion https://github.com/bochinchero/dcrsnapshots/tree/main/2021-12
