@@ -1,0 +1,28 @@
+- id: 202204.1
+  title: Objective Constructs
+  author: saender
+  notes: Reusing the 201902.1 image. Year/month overlay fixed by @richardred. https://github.com/decred/dcrdesign/issues/120
+
+- id: 202204.2
+  notes: Decrediton Treasury Spending tab https://github.com/decred/decrediton/pull/3718
+
+- id: 202204.3
+  notes: Decrediton Tutorials https://github.com/decred/decrediton/pull/3669
+
+- id: 202204.4
+  notes: DCRDEX wallets, custom shot by @Exitus
+
+- id: 202204.5
+  notes: dcrandroid toggle to show/hide the balance https://github.com/planetdecred/dcrandroid/pull/601
+
+- id: 202204.6
+  notes: GoDCR Staking page https://github.com/planetdecred/godcr/pull/826
+
+- id: 202204.7
+  notes: PoS participation % https://github.com/bochinchero/dcrsnapshots
+
+- id: 202204.8
+  notes: DCRDEX hourly volume Apr-May (as of 2022-05-16)
+
+- id: 202204.9
+  notes: DCRDEX monthly vol DCR https://github.com/bochinchero/dcrsnapshots
