@@ -1,0 +1,35 @@
+- id: 202207.1
+  notes: Artwork by OfficialCryptos
+
+- id: 202207.2
+  notes: dcrd benchmark before and after an optimization https://github.com/decred/dcrd/pull/2971
+
+- id: 202207.3
+  notes: UNUSED (too many images). Decrediton TSpend voting https://github.com/decred/decrediton/pull/3787
+
+- id: 202207.4
+  notes: DCRDEX fiat equivalents https://github.com/decred/dcrdex/pull/1600
+
+- id: 202207.5
+  notes: GoDCR new Staking design https://github.com/planetdecred/godcr/pull/1016
+
+- id: 202207.6
+  notes: UNUSED (too many images). dcrdata signature verification https://github.com/decred/dcrdata/pull/1911
+
+- id: 202207.7
+  notes: Hasrhate history https://github.com/bochinchero/dcrsnapshots
+
+- id: 202207.8
+  notes: Hashrate pool distribution https://github.com/bochinchero/dcrsnapshots
+
+- id: 202207.9
+  notes: VSP ticket distribution https://github.com/bochinchero/dcrsnapshots
+
+- id: 202207.10
+  notes: Node version distribution https://github.com/bochinchero/dcrsnapshots
+
+- id: 202207.11
+  notes: Ticket price ATH https://github.com/bochinchero/dcrsnapshots
+
+- id: 202207.12
+  notes: DCRDEX trading volume monthly USD https://github.com/bochinchero/dcrsnapshots
