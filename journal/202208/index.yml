@@ -1,0 +1,32 @@
+- id: 202208.1
+  notes: Background image from the refreshed design of https://decred.org/wallets/
+
+- id: 202208.2
+  notes: Politeia, RFP proposal view https://github.com/decred/politeiagui/pull/2848
+
+- id: 202208.3
+  notes: DCRDEX, responsive Wallets page https://github.com/decred/dcrdex/pull/1700
+
+- id: 202208.4
+  notes: GoDCR, Settings page v2 UI desgn https://github.com/planetdecred/godcr/pull/1036
+
+- id: 202208.5
+  notes: New decred.org design screenshot
+
+- id: 202208.6
+  notes: Hashrate history https://github.com/bochinchero/dcrsnapshots
+
+- id: 202208.7
+  notes: Hashrate pool distribution https://github.com/bochinchero/dcrsnapshots
+
+- id: 202208.8
+  notes: VSP live ticket distribution https://github.com/bochinchero/dcrsnapshots
+
+- id: 202208.9
+  notes: dcrd node version distribution https://github.com/bochinchero/dcrsnapshots
+
+- id: 202208.10
+  notes: Binance DCR/USDT all-time history with big volume spike in 2022-08 https://www.decredmagazine.com/inflection-points/
+
+- id: 202208.11
+  notes: DCRDEX monthly volume in USD https://github.com/bochinchero/dcrsnapshots
