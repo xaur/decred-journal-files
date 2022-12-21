@@ -1,0 +1,41 @@
+- id: 202211.1
+  notes: Untitled title image by @Exitus
+
+- id: 202211.2
+  notes: Decrediton, redesigned launcher views https://github.com/decred/decrediton/pull/3690
+
+- id: 202211.3
+  notes: Decrediton, redesigned Trezor views https://github.com/decred/decrediton/pull/3570
+
+- id: 202211.4
+  notes: DCRDEX, market-maker bot setup UI https://github.com/decred/dcrdex/pull/1738
+
+- id: 202211.5
+  notes: Treasury balance history https://github.com/bochinchero/dcrsnapshots
+
+- id: 202211.6
+  notes: Treasury inflows and outflows history https://github.com/bochinchero/dcrsnapshots
+
+- id: 202211.7
+  notes: Hashrate history https://github.com/bochinchero/dcrsnapshots
+
+- id: 202211.8
+  notes: Hashrate pool distribution https://github.com/bochinchero/dcrsnapshots
+
+- id: 202211.9
+  notes: Hashrate pool distribution history https://github.com/bochinchero/dcrsnapshots
+
+- id: 202211.10
+  notes: VSP live ticket distribution https://github.com/bochinchero/dcrsnapshots
+
+- id: 202211.11
+  notes: Reachable dcrd node versions https://github.com/bochinchero/dcrsnapshots
+
+- id: 202211.12
+  notes: Reachable dcrd node version history https://github.com/bochinchero/dcrsnapshots
+
+- id: 202211.13
+  notes: Decred technology stack overview https://www.decredmagazine.com/decreds-technology-stack-overview/  https://www.decredmagazine.com/content/images/2022/11/Decred-Technology-Stack-min-2.jpg
+
+- id: 202211.14
+  notes: DCRDEX monthly volume in USD https://github.com/bochinchero/dcrsnapshots
