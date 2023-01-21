@@ -1,0 +1,32 @@
+- id: 202212.1
+  notes: Bison Relay artwork by @saender https://twitter.com/decredproject/status/1603479514759168001 https://blog.decred.org/2022/12/14/Bison-Relay-The-Sovereign-Internet/
+
+- id: 202212.2
+  notes: Decrediton, TSpend voting https://github.com/decred/decrediton/pull/3787
+
+- id: 202212.3
+  notes: DCRDEX, trading USDC to DCR on testnet https://github.com/decred/dcrdex/pull/1733#pullrequestreview-1218454607
+
+- id: 202212.4
+  notes: dcrdata, improved TSpend vote results display https://github.com/decred/dcrdata/pull/1918
+
+- id: 202212.5
+  notes: Hashrate history https://github.com/bochinchero/dcrsnapshots
+
+- id: 202212.6
+  notes: Hashrate pool distribution https://github.com/bochinchero/dcrsnapshots
+
+- id: 202212.7
+  notes: Hashrate pool distribution history https://github.com/bochinchero/dcrsnapshots
+
+- id: 202212.8
+  notes: VSP live ticket distribution https://github.com/bochinchero/dcrsnapshots
+
+- id: 202212.9
+  notes: Reachable dcrd node versions https://github.com/bochinchero/dcrsnapshots
+
+- id: 202212.10
+  notes: Reachable dcrd node version history https://github.com/bochinchero/dcrsnapshots
+
+- id: 202212.11
+  notes: DCRDEX monthly volume in USD https://github.com/bochinchero/dcrsnapshots
