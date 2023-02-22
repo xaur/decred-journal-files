@@ -1,0 +1,47 @@
+- id: 202301.1
+  notes: Decred Owl by @OfficialCryptos
+
+- id: 202301.2
+  notes: Politeia Account pages remake https://github.com/decred/politeiagui/pull/2884
+
+- id: 202301.3
+  notes: DCRDEX fee estimation https://github.com/decred/dcrdex/pull/2057
+
+- id: 202301.4
+  notes: Timestamply redesign test deployment https://dcrtimegui-redesign.netlify.app/
+
+- id: 202301.5
+  notes: UNUSED - Bison Relay screenshot
+
+- id: 202301.6
+  notes: Treasury flows https://github.com/bochinchero/dcrsnapshots
+
+- id: 202301.7
+  notes: Hashrate history https://github.com/bochinchero/dcrsnapshots
+
+- id: 202301.8
+  notes: UNUSED - Hashrate pool distribution
+
+- id: 202301.9
+  notes: Hashrate pool distribution history https://github.com/bochinchero/dcrsnapshots
+
+- id: 202301.10
+  notes: Ticket price in DCR https://github.com/bochinchero/dcrsnapshots
+
+- id: 202301.11
+  notes: Ticke pool value in DCR (aka staked DCR) https://github.com/bochinchero/dcrsnapshots
+
+- id: 202301.12
+  notes: VSP live ticket distribution https://github.com/bochinchero/dcrsnapshots
+
+- id: 202301.13
+  notes: Reachable dcrd node version history https://github.com/bochinchero/dcrsnapshots
+
+- id: 202301.14
+  notes: Mixed and unspent DCR https://github.com/bochinchero/dcrsnapshots
+
+- id: 202301.15
+  notes: Decred hot chocolate https://twitter.com/maitreludo/status/1608847709930393601
+
+- id: 202301.16
+  notes: DEX monthly volume in USD https://github.com/bochinchero/dcrsnapshots
