@@ -1,0 +1,112 @@
+- id: 202304.1
+  caption: Untitled by Exitus
+  notes: It was supposed to represent the inner-workings of a DCR ticket in code but it's too abstract I think \[Exitus\]
+
+- id: 202304.2
+  caption: New launcher views - learn about Decred while the wallet is syncing
+  notes:
+    - Decred Recap - v1.7.7 Improvements, Atomic-Swap DEX v0.6 - The DAO Evolves!
+    - https://www.youtube.com/watch?v=OgupSweE94s
+
+- id: 202304.3
+  caption: Updated trading view in DCRDEX v0.6.0
+  notes: From @phoenixgreen
+
+- id: 202304.4
+  caption: Updated wallet view in DCRDEX v0.6.0
+  notes: From @phoenixgreen
+
+- id: 202304.5
+  caption: Bison Relay v0.1.7
+
+- id: 202304.6
+  caption: Oprah's tipping in action in Bison Relay
+  notes: https://twitter.com/DecredSociety/status/1646472964911648768
+
+- id: 202304.7
+  caption: DigiByte is coming to DCRDEX
+  notes:
+    - https://github.com/decred/dcrdex/pull/1993#discussion_r1146466204
+    - https://user-images.githubusercontent.com/9373513/227272082-9344a5b0-3948-4d74-9ec2-083d33bb8240.png
+
+- id: 202304.8
+  caption: Umbrel is a one more way to get DCRDEX
+  notes: Screenshot of https://dex.decred.org/
+
+- id: 202304.9
+  caption: Bison Relay can now be used as a simple DCR wallet
+  notes:
+    - https://matrix.to/#/!lDZCzVQjFoJsXMPkvr:decred.org/$moRqiW2tBiyOwcV2_rbvvgQsP4ZHAp3fIsgk7WwrL0g
+    - https://matrix.decred.org:8448/_matrix/media/r0/download/decred.org/coVGDRCWmUYcBFrSyWtzwSwD
+
+- id: 202304.10
+  caption: Tipping users in Bison Relay got much easier
+  notes:
+    - Bison Relay upgrades to version 0.1.7
+    - https://www.youtube.com/watch?v=wg0k8p3arxI
+
+- id: 202304.11
+  caption: Friendly bot helps to discover public chats
+  notes:
+    - Bison Relay upgrades to version 0.1.7
+    - https://www.youtube.com/watch?v=wg0k8p3arxI
+
+- id: 202304.12
+  caption: Decred Treasury balance in DCR
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202304.13
+  caption: Decred Treasury balance in USD
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202304.14
+  caption: Decred hashrate
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202304.15
+  caption: Historical pool hashrate distribution
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202304.16
+  caption: Ticket price has been unusually stable in April
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202304.17
+  caption: DCR locked in tickets is crawling up
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202304.18
+  caption: Distribution of tickets managed by VSPs
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202304.19
+  caption: Historical dcrd version distribution, data from nodes.jholdstock.uk. Data before Jan 2023 was incomplete.
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202304.20
+  caption: Mixed supply is on the rise
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202304.21
+  caption: Uptick in ["adjusted transaction volume"](https://coinmetrics.io/introducing-adjusted-estimates/) as defined by Coin Metrics, in both DCR and USD
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202304.22
+  caption: Decred's Lightning Network is seeing more nodes
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202304.23
+  caption: Combined balance of top 22 mining addresses vs DCR price history
+  notes:
+    - https://github.com/bochinchero/decred-pub/blob/main/MiningRewardBalance/MiningAddresses.md
+    - https://github.com/bochinchero/decred-pub/blob/main/MiningRewardBalance/all/Combined%20100k+%20PoW%20Block%20Reward%20Address%20Balance.png
+
+- id: 202304.24
+  caption: Trocador.app finds best rates, isolates from vendors, and warns about KYC risks
+  notes:
+    - https://matrix.to/#/!teQafvHMYpIbqLIieU:decred.org/$L0cm2gAsmtwqnZ2OvY8sLtC81EAC3WB9L9zQ6bnOmEk
+    - https://matrix.decred.org:8448/_matrix/media/r0/download/decred.org/QsaHfztZbbaqpMGjqsyHfuZR
+
+- id: 202304.25
+  caption: DCRDEX monthly volume in USD
+  notes: https://github.com/bochinchero/dcrsnapshots
