@@ -1,0 +1,98 @@
+- id: 202305.01
+  caption: Cyberstorm by @Exitus
+
+- id: 202305.02
+  caption: DEX'es swap contract requires a one-time approval to swap your tokens
+  notes:
+    - https://github.com/decred/dcrdex/pull/2349
+    - https://user-images.githubusercontent.com/6186350/237427360-56c1c05a-3402-4d6e-acfd-5853b4c10abf.png
+    - https://user-images.githubusercontent.com/6186350/237427377-7de5a6b0-4f57-40af-b514-872a111fe3a2.png
+    - https://user-images.githubusercontent.com/6186350/238135650-41b6971f-ac72-4950-ae88-328d9c310989.png
+
+- id: 202305.03
+  caption: Solar setup running Umbrel with DEX market maker + arbitrage. By [@busyLightz](https://twitter.com/busyLightz/status/1654876069101436928).
+  notes:
+    - 12V solar setup running umbrel with dex market maker + arbitrage. The money printer.
+    - https://twitter.com/busyLightz/status/1654876069101436928
+    - https://pbs.twimg.com/media/FvdNA42WcAIzzG5.jpg
+
+- id: 202305.04
+  caption: Decred hashrate
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202305.05
+  caption: Historical pool hashrate distribution
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202305.06
+  caption: Ticket price made another swing
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202305.07
+  caption: Distribution of tickets managed by VSPs
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202305.08
+  caption: Historical dcrd version distribution, data from nodes.jholdstock.uk. Data before Jan 2023 was incomplete.
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202305.09
+  caption: Monthly StakeShuffle volume in USD
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202305.10
+  caption: Decred's Lightning Network capacity
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202305.11
+  caption: Average block time remains stable at 5 minutes
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202305.12
+  caption: Decred chain is adding ~180 MB per month
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202305.13
+  caption: The full Decred blockchain can fit in modern smartphone's storage
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202305.14
+  caption: Monthly DCR issuance in USD - rewards shifted from miners to stakers and will shift more soon
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202305.15
+  caption: Total monthly fees - Decred is still cheap to use
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202305.16
+  caption: Vanguard's War Room
+  notes: Screenshot from DV Discord
+
+- id: 202305.17
+  caption: Decred shedding the ballast. By @OfficialCryptos.
+  notes:
+    - Original title "Ascend to Greatness"
+    - https://www.decredmagazine.com/ascend-to-greatness/
+    - https://www.decredmagazine.com/content/images/2023/05/image-6.png
+
+- id: 202305.18
+  caption: Odd price wicks on DCR/USD seem to happen during low correlation with BTC/USD price action. Analysis by @saender.
+  notes:
+    - https://matrix.to/#/!lDZCzVQjFoJsXMPkvr:decred.org/$oxo3ofv0VnndaVIxA8MSsP5uvczTcz9pOyb1ED4ewoA
+    - https://matrix.decred.org:8448/_matrix/media/r0/download/decred.org/UETvHlZpqYrHbfhvouDextsV
+
+- id: 202305.19
+  caption: Market Valuations (USD) based on Decred-specific Staked Realised Value metric from @bochinchero
+  notes:
+    - https://matrix.to/#/!lDZCzVQjFoJsXMPkvr:decred.org/$Gd6oHLB8pDoA4j0keRGnmAFD5AM5Ye7lY_Pc3j8d53Y
+    - https://matrix.decred.org:8448/_matrix/media/r0/download/decred.org/LeEizuiEkNMLJRMItFMalLKC
+
+- id: 202305.20
+  caption: DCR/USD accumulation zones analysis by @saender
+  notes:
+    - https://matrix.to/#/!lDZCzVQjFoJsXMPkvr:decred.org/$1ivPF--zpiqDMBPtx4Q5-x1ro1cNb9IvUxuO26I9Rtk
+    - https://matrix.decred.org:8448/_matrix/media/r0/download/decred.org/fkIRkLLIuvuvAroGGhrnqzAR
+
+- id: 202305.21
+  caption: DCRDEX monthly volume in USD
+  notes: https://github.com/bochinchero/dcrsnapshots
