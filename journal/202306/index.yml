@@ -1,0 +1,114 @@
+- id: 202306.01
+  caption: Artowk by @Exitus
+  notes: 
+
+- id: 202306.02
+  caption: Simulation of the ASERT difficulty algorithm reacting to stable, rapidly increasing and rapidly decreasing hashrate
+  notes:
+    - https://github.com/decred/dcrd/pull/3115
+    - https://user-images.githubusercontent.com/2115102/241322627-5f573007-2c96-4705-80ef-2f91ff432f0b.svg
+
+- id: 202306.03
+  caption: Optimized memory allocation in dcrd v1.8.0. Less allocation is better, it translates to lower CPU usage and faster sync times.
+  notes:
+    - https://matrix.to/#/!zefvTnlxYHPKvJMThI:decred.org/$mbJD22XpiecybtWfRIhFRTawODG9wQujjoKSyOqegI0
+    - https://matrix.decred.org:8448/_matrix/media/r0/download/decred.org/JBWdYjxtRgcxqzatbiDKmXBF
+
+- id: 202306.04
+  caption: Improved intro to bonds in DCRDEX
+  notes:
+    - https://github.com/decred/dcrdex/pull/2395
+    - https://user-images.githubusercontent.com/9373513/246508648-6fd7d0df-b7a5-4dd5-a20e-3d5777ef4430.png
+
+- id: 202306.05
+  caption: Wallet types supported by DCRDEX
+  notes:
+    - https://github.com/decred/dcrdex/pull/2383
+    - https://user-images.githubusercontent.com/9373513/245337353-6c50e993-01cf-4925-9766-5efd9edcdb1d.png
+
+- id: 202306.06
+  caption: Decred Treasury balance in DCR
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202306.07
+  caption: Decred Treasury balance in USD
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202306.08
+  caption: Decred hashrate
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202306.09
+  caption: icket price making more swings
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202306.10
+  caption: Ticket price swings naturally correlate with volatile ticket purchasing activity
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202306.11
+  caption: Percentage of coins locked in proof of stake is a good indicator of holder conviction
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202306.12
+  caption: Distribution of tickets managed by VSPs
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202306.13
+  caption: Node operators have been quick to upgrade to v1.8.0. The red area before Jan 2023 indicates incomplete data we had at that time.
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202306.14
+  caption: Block version 10 quickly took over to unlock consensus voting
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202306.15
+  caption: Spikes in daily StakeShuffle volume
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202306.16
+  caption: Biggest monthly StakeShuffle volume so far
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202306.17
+  caption: Decred's Lightning Network node count growth has stopped
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202306.18
+  caption: Decred's Lightning Network capacity crawling up
+  notes: https://github.com/bochinchero/dcrsnapshots
+
+- id: 202306.19
+  caption: 
+  notes:
+    - https://www.cypherpunktimes.com/leading-the-dao-pack/
+    - https://www.cypherpunktimes.com/content/images/size/w1000/2023/06/Decred-leading-the-DAO-pack.jpeg
+    - https://www.cypherpunktimes.com/content/images/2023/06/Decred-leading-the-DAO-pack.jpeg
+
+- id: 202306.20
+  caption: DCR/USD accumulation zones analysis by @saender
+  notes:
+    - https://matrix.to/#/!lDZCzVQjFoJsXMPkvr:decred.org/$3fu2saXO4WMca2Eg0Pr48YcLbOc8HWZpWh3ddtbjTS8
+    - https://matrix.decred.org:8448/_matrix/media/r0/download/decred.org/KgmuOKPUqaEtOdcKIwlcMYxr
+
+- id: 202306.21
+  caption: Market Valuations (USD) based on Decred-specific [Staked Realized Value](https://bochinchero.medium.com/decred-on-chain-staked-realised-value-444ab5a146d8) metric from @bochinchero
+  notes:
+    - https://matrix.to/#/!lDZCzVQjFoJsXMPkvr:decred.org/$SS_yLDvfKb3CRf5LYBtcmvQ2zDi5tJi4S9TEkQbtX30
+    - https://matrix.decred.org:8448/_matrix/media/r0/download/decred.org/edQnpMuAVTHzZugqoBOCXhKX
+
+- id: 202306.22
+  caption: Decred-specific SASRV/RV Ratio metric by @bochinchero provides a lagging indicator of the direction that the market is trending
+  notes:
+    - https://matrix.to/#/!lDZCzVQjFoJsXMPkvr:decred.org/$QwIeA_8fUq6wdYyo8TWdhoiCoilMCxaUOnGnVGgrb3k
+    - https://matrix.decred.org:8448/_matrix/media/r0/download/decred.org/UfLmyRRYmeCRFjaMkYAuwLjl
+
+- id: 202306.23
+  caption: Realized Value minus Staked Realized Value by @bochinchero
+  notes:
+    - https://matrix.to/#/!lDZCzVQjFoJsXMPkvr:decred.org/$KHJd2CnmADnr7RaVmbdVz_c7ZgEOTSFVOciD-4rEwec
+    - https://matrix.decred.org:8448/_matrix/media/r0/download/decred.org/kpOKlrVBBHCvIqrWXKuRIVlu
+
+- id: 202306.24
+  caption: DCRDEX monthly volume in USD
+  notes: https://github.com/bochinchero/dcrsnapshots
