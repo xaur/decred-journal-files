@@ -1,0 +1,114 @@
+- id: 202307.01
+  caption: The Perfect Storm by @Exitus
+  notes:
+    - Inspired by Dave's comments in a recent interview.
+
+- id: 202307.02
+  caption: Reworked app setup flow in DCRDEX
+  notes:
+    - https://github.com/decred/dcrdex/pull/2385
+    - https://user-images.githubusercontent.com/6109680/245821092-31d80d5f-b6c3-4c55-a0e7-2c8dc11879cd.png
+
+- id: 202307.03
+  caption: Dock menu in macOS will list all DEX windows
+  notes:
+    - https://github.com/decred/dcrdex/pull/2372#issuecomment-1565149810
+    - https://user-images.githubusercontent.com/57448127/241348364-20cb55c6-af4a-436d-96ef-847a38910272.png
+
+- id: 202307.04
+  caption: Lower DCR/USD contributes to higher treasury outflows
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202307.05
+  caption: Treasury balance USD equivalent
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202307.06
+  caption: Decred hashrate
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202307.07
+  caption: Historical pool hashrate distribution
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202307.08
+  caption: Ticket price stabilizing
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202307.09
+  caption: Total locked DCR retesting its ATH
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202307.10
+  caption: Monthly missed tickets went down after a small uptick in June
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202307.11
+  caption: Distribution of tickets managed by VSPs
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202307.12
+  caption: Most of the network is running v1.8.0
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202307.13
+  caption: Node operators have been quick to upgrade to v1.8.0. The red area before Jan 2023 indicates incomplete data we had at that time.
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202307.14
+  caption: DCR StakeShuffle volume
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202307.15
+  caption: Transaction volume has taken a summer vacation. The [metric](https://coinmetrics.io/introducing-adjusted-estimates/) is defined by Coin Metrics.
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202307.16
+  caption: Decred's Lightning Network node count growing slowly
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202307.17
+  caption: Decred's Lightning Network capacity stabilized around 200 DCR
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202307.18
+  caption: DCR top tier list by @Void
+  notes:
+    - https://matrix.to/#/!lDZCzVQjFoJsXMPkvr:decred.org/$Im4VJ9nJDedNOOCaKlxSu9a9N7HCA9fJEUd-W3ubVMY
+    - https://matrix.decred.org:8448/_matrix/media/r0/download/decred.org/splOjLTRtqTOaiVstScfKEKO
+
+- id: 202307.19
+  caption: DCR performance compared to other privacy coins by @saender
+  notes:
+    - https://matrix.to/#/!lDZCzVQjFoJsXMPkvr:decred.org/$IgviXk8Xpug6IJx31p_wkCKX4jE1Q2PKGvPM_K54r_A
+    - https://matrix.decred.org:8448/_matrix/media/r0/download/decred.org/xSIJNkpEDjhsXqDoJNXXSQrT
+
+- id: 202307.20
+  caption: Decred Pricing Metrics by @bochinchero
+  notes:
+    - https://matrix.to/#/!lDZCzVQjFoJsXMPkvr:decred.org/$H540G0LtMAsa1Vc1ANY0A2Jf6CuN0uTyr6XKQO68nq8
+    - https://matrix.decred.org:8448/_matrix/media/r0/download/decred.org/bmdCHETCaXxSibSZPijhkCDT
+
+- id: 202307.21
+  caption: DCR/BTC in June-July
+  notes:
+    - https://twitter.com/applesaucesome1/status/1685801394354151424
+
+- id: 202307.22
+  caption: DCRDEX monthly volume in USD does not like summer time
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
