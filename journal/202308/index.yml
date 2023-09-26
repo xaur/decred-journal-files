@@ -1,0 +1,137 @@
+- id: 202308.01
+  caption: Untitled by @Exitus
+
+- id: 202308.02
+  caption: Cryptopower wallet selection page in dark mode
+
+- id: 202308.03
+  caption: Cryptopower's send page
+  notes:
+    - https://www.cypherpunktimes.com/content/images/2023/08/send.png
+    - https://www.cypherpunktimes.com/cryptopower-golang-native-desktop-mobile-wallet/
+    - https://twitter.com/dreacot/status/1699963091037917327
+    - https://pbs.twimg.com/media/F5d7ac5W4AAGRGJ.jpg
+
+- id: 202308.04
+  caption: Cryptopower supports advanced Coin Selection for extra control
+  notes:
+    - \#cryptopower chat 2023-09
+
+- id: 202308.05
+  caption: Cryptopower lets you [convert coins](https://twitter.com/exitusdcr/status/1699366344813109572) without touching the browser
+  notes:
+    - https://twitter.com/exitusdcr/status/1699366344813109572
+
+- id: 202308.06
+  caption: Bison Relay v0.1.8 helps you find new comments faster
+
+- id: 202308.07
+  caption: The ASERT difficulty formula is rather simple. If our processors could just run this beautiful math directly...
+  notes:
+    - https://raw.githubusercontent.com/decred/dcps/master/dcp-0011/asert_ideal.svg
+    - https://github.com/decred/dcps/blob/master/dcp-0011/dcp-0011.mediawiki
+
+- id: 202308.08
+  caption: But come down to Earth and face the brutal reality of binary computers with limited precision. This adjusted formula is optimized to run fast on real hardware, with minimal error.
+  notes:
+    - https://raw.githubusercontent.com/decred/dcps/master/dcp-0011/asert.svg
+    - https://github.com/decred/dcps/blob/master/dcp-0011/dcp-0011.mediawiki
+
+- id: 202308.09
+  caption: Footgun protection will prevent accidental changes that might break the wallet when using DEX inside Decrediton
+  notes:
+    - https://github.com/decred/dcrdex/pull/2454#issuecomment-1660490817
+    - https://user-images.githubusercontent.com/6109680/257552762-fd8567ca-05ea-4e14-9512-940667053be6.png
+
+- id: 202308.10
+  caption: Simulated sideways market for testing market maker bots' performance
+  notes:
+    - https://github.com/decred/dcrdex/pull/2409
+    - https://user-images.githubusercontent.com/34998433/247575191-657dd3e7-764c-42b4-902c-5ffdfa32f2c4.png
+
+- id: 202308.11
+  caption: 
+  notes:
+    - https://matrix.to/#/!oxOZZtibVUXxXtdPJS:decred.org/$eTWj11_CSCZKcicMHZT1qmRTgoz0Nh9KabpPIL90cEk
+
+- id: 202308.12
+  caption: Cryptopower's wallet creation UI on Android, design is work in progress
+  notes:
+    - https://www.cypherpunktimes.com/content/images/2023/08/Cryptopower-wallet-2.png
+    - https://www.cypherpunktimes.com/content/images/2023/08/Cryptopower-wallet-3.png
+    - https://www.cypherpunktimes.com/cryptopower-golang-native-desktop-mobile-wallet/
+
+- id: 202308.13
+  caption: Experimental Cryptopower Android build tested on a real device
+  notes:
+    - https://proposals.decred.org/record/256efee
+
+- id: 202308.14
+  caption: Treasury inflows and outflows in DCR
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202308.15
+  caption: Treasury balance in USD
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202308.16
+  caption: Decred hashrate
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202308.17
+  caption: Historical pool hashrate distribution
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202308.18
+  caption: Ticket price has been unusually stable in August
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202308.19
+  caption: Distribution of tickets managed by VSPs
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202308.20
+  caption: Majority of nodes are running dcrd v1.8.0. The red area before Jan 2023 indicates incomplete data we had at that time.
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202308.21
+  caption: Decred's Lightning Network node count has stabilized
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202308.22
+  caption: "When I compete in a triathlon, I become a billboard for #decred" \[[@wanbihou](https://twitter.com/wanbihou/status/1695772020687229092)\]
+  notes:
+    - https://twitter.com/wanbihou/status/1695772020687229092
+
+- id: 202308.23
+  caption: "How do you identify?" - "I'm so upper-right quadrant that it's off your chart" by [@Tivra](https://twitter.com/WasPraxis/status/1676890319902633985)
+  notes:
+    - https://twitter.com/WasPraxis/status/1676890319902633985
+
+- id: 202308.24
+  caption: "Was looking to re-up my supplement stack and came across this. Now it's a must buy, don't you think?" by [@kozel](https://matrix.to/#/!lDZCzVQjFoJsXMPkvr:decred.org/$Svd-YbzCDskjqeiql3tKQB9XSoINI-JnSKt_-fjeq-Q)
+  notes:
+    - https://matrix.to/#/!lDZCzVQjFoJsXMPkvr:decred.org/$zU5KxBWEQPmT4i_ts6Kx5oos-Xkp8KOBL0-tWxN1XJg
+
+- id: 202308.25
+  caption: Proof-of-Shoe
+  notes:
+    - https://matrix.to/#/!rLQWsgjPJFAClvskmU:decred.org/$kV-PGswIf-YyrTaiZTiOhLE5D6EZT5WdnRzJC6sgwKQ
+
+- id: 202308.26
+  caption: DCR is at a "long time" low vs XMR
+  notes:
+    - https://twitter.com/applesaucesome1/status/1690850451879505922
+
+- id: 202308.27
+  caption: DCRDEX monthly volume in USD
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
