@@ -1,0 +1,186 @@
+- id: 202309.01
+  caption: Circuit by @Exitus
+
+- id: 202309.02
+  caption: BzMiner GUI running on HiveOS
+  notes:
+    - https://matrix.to/#/!TSpuyuYWgkTrgPTcXh:decred.org/$EvRM2Dmf7-9ntW6wQqHEOctGia3FEa_-uQxs3d1yZwQ
+
+- id: 202309.03
+  caption: Improved notifications in Bison Relay v0.1.9
+  notes:
+    - https://matrix.to/#/!GHnoHXSgkVAsUknRUg:decred.org/$f_MgbXpHSIzdI4RWsprpF6jsF4XH7HCWhCcDweEuUqo
+
+- id: 202309.04
+  caption: Missed tickets in vspd admin panel
+  notes:
+    - https://github.com/decred/vspd/pull/451
+    - https://user-images.githubusercontent.com/6762864/270709150-daef212e-291c-4185-a044-06cbcdb8d3fd.png
+
+- id: 202309.05
+  caption: Decred staking UI in DCRDEX
+  notes:
+    - https://github.com/decred/dcrdex/pull/2482
+    - https://user-images.githubusercontent.com/6109680/261807842-b44b44bf-930a-44de-98f0-a3eaf6f4aa29.png
+    - https://user-images.githubusercontent.com/6109680/261807899-de0ad880-a770-41b0-8635-5ceeb7aafb64.png
+
+- id: 202309.06
+  caption: Polygon integration in DCRDEX
+  notes:
+    - https://github.com/decred/dcrdex/pull/2431#pullrequestreview-1541903478
+    - https://user-images.githubusercontent.com/9373513/255294376-59ce4f91-dbd3-4530-a40a-c8b255d1be67.png
+    - https://twitter.com/exitusdcr/status/1700127483234775229
+
+- id: 202309.07
+  caption: Proposal voting in Cryptopower
+  notes:
+    - https://github.com/crypto-power/cryptopower/pull/63
+    - https://user-images.githubusercontent.com/27733432/267066207-a0db6063-5aab-4a44-9fe0-ef8fbd2a7bec.png
+
+- id: 202309.08
+  caption: Recent trades in Cryptopower use centralized instant exchange services
+  notes:
+    - https://github.com/crypto-power/cryptopower/pull/64
+    - https://user-images.githubusercontent.com/22055953/267079324-eab7c98f-e018-4f99-bd3c-fade38ba849f.png
+
+- id: 202309.09
+  caption: DCRDEX onboarding pages in Cryptopower
+  notes:
+    - https://github.com/crypto-power/cryptopower/pull/119
+    - https://user-images.githubusercontent.com/57448127/271292867-1a422ce4-1bd5-4a93-bd0d-af7398dbc5c2.png
+
+- id: 202309.10
+  caption: Design for the upcoming Overview page in Cryptopower (actual implementation may differ)
+  notes:
+    - https://github.com/crypto-power/cryptopower/issues/69
+    - https://user-images.githubusercontent.com/25265396/268087960-d8ae93bf-6574-4cd2-b65b-ebc02e96612c.png
+
+- id: 202309.11
+  caption: First iteration of mobile design in Bison Relay v0.1.9
+  notes:
+    - https://matrix.to/#/!GHnoHXSgkVAsUknRUg:decred.org/$-V7JOL7Lrjg_pEIYXSv8MG7wWdPJhsYB7QD6nzFrcu8
+
+- id: 202309.12
+  caption: Pages in brclient v0.1.9
+  notes:
+    - Screenshot from @karamble
+
+- id: 202309.13
+  caption: Poker bot PoC game in Bison Relay GUI
+  notes:
+    - https://matrix.to/#/!GHnoHXSgkVAsUknRUg:decred.org/$KOVDyL-MvWWWtKx_BqSCesI0KcYJuF4UoAStoHOZXSg
+
+- id: 202309.14
+  caption: Treasury monthly balance in USD; note that it heavily depends on the exchange rate
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202309.15
+  caption: Mining difficulty during the CPU days
+  notes:
+    - https://matrix.to/#/!TSpuyuYWgkTrgPTcXh:decred.org/$oKwCLjopA06E3DmAbwHyezKJ6W5D9p4HQWETBkW08sA
+
+- id: 202309.16
+  caption: Block distribution by mining address as of September 6th
+  notes:
+    - https://matrix.to/#/!TSpuyuYWgkTrgPTcXh:decred.org/$VwzH8Rky7m6Aoq14xSzhCy79Lw5vZybMhir7v56BLrs
+
+- id: 202309.17
+  caption: BzMiner v17 managing 8 GPUs mining Decred
+  notes:
+    - https://matrix.to/#/!TSpuyuYWgkTrgPTcXh:decred.org/$q-zpMDVQB0f6Lina37188VOE1g-jLw5wAKNUtvO3l3M
+
+- id: 202309.18
+  caption: Mining difficulty increased x200 in just 2 days, and did another x5 through the rest of September
+  notes:
+    - dcrdata screenshot
+
+- id: 202309.19
+  caption: Average block time was wild for a few days, but stabilized quickly
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202309.20
+  caption: This chart shows just how centralized the mining was before the fork, only ~5 unique mining addresses
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202309.21
+  caption: Another view at mining (de)centralization, each color represents a unique mining address
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202309.22
+  caption: Low ticket buying activity caused a drop in locked DCR and stake participation
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202309.23
+  caption: Ticket price went down to stimulate ticket buying again
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202309.24
+  caption: Distribution of tickets managed by VSPs
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202309.25
+  caption: The majority of nodes are running dcrd v1.8.0. The red area before Jan 2023 indicates incomplete data we had at that time.
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202309.26
+  caption: Daily mixed DCR dropped during the chain stall, but came back with a vengeance marking a new ATH
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202309.27
+  caption: Total mixed and unspent DCR dipped, but quickly recovered
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202309.28
+  caption: Decred's Lightning Network capacity remains stable
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202309.29
+  caption: Uptick in missed tickets in September was likely due to technical issues after the hard fork
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202309.30
+  caption: Monthly DCR emission was slightly higher than usual due to a period of fast blocks
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202309.31
+  caption: Merch design by @lewildbeast for the hero miner who solved block 794,369 (DCR reward needs to be [updated](https://dcrdata.decred.org/block/794369))
+  notes:
+    - https://matrix.to/#/!TSpuyuYWgkTrgPTcXh:decred.org/$KKJXU4Z9VSUKR_RJ7oRW5KRdujThaM4JvSMSB3z8MIg
+
+- id: 202309.32
+  caption: Interpretation of the UP ONYL paradigm by @Void
+  notes:
+    - https://twitter.com/CryptoDYOR/status/1703054462686777695
+
+- id: 202309.33
+  caption: Historical DCR/USD accumulation zones by @saender
+  notes:
+    - https://matrix.to/#/!lDZCzVQjFoJsXMPkvr:decred.org/$z6W3BbBc7QI9i8KUo47-AHLKLG1bvjE76BH3Y06Ap3k
+
+- id: 202309.34
+  caption: Recent DCR/BTC, data from Coin Metrics
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202309.35
+  caption: Recent DCR/USD, data from Coin Metrics
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202309.36
+  caption: DCRDEX monthly volume in USD
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
