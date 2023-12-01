@@ -1,0 +1,144 @@
+- id: 202310.01
+  caption: October cover by @Exitus
+
+- id: 202310.02
+  caption: Initial chain sync will be ~40% faster with concurrent getdata requests
+  notes:
+    - https://matrix.to/#/!zefvTnlxYHPKvJMThI:decred.org/$x9esjGNzBBl8zcpUiV6hTgmAAZH3z-bErSBDgO56nyA
+
+- id: 202310.03
+  caption: Bond settings in DCRDEX (test amounts are shown)
+  notes:
+    - https://github.com/decred/dcrdex/pull/2485#issuecomment-1727666069
+    - Compilation of multiple frames
+
+- id: 202310.04
+  caption: DEX onboarding views in Cryptopower
+  notes:
+    - https://github.com/crypto-power/cryptopower/pull/199
+    - https://user-images.githubusercontent.com/57448127/277507790-1d6ff75b-3bb8-4a19-8ccd-f2837a3b9a15.png
+    - https://user-images.githubusercontent.com/57448127/277507791-86438d42-c7ac-4f6e-acb8-e747bbb3471d.png
+
+- id: 202310.05
+  caption: Cryptopower can convert coins using centralized services
+  notes:
+    - https://github.com/crypto-power/cryptopower/pull/148
+    - https://user-images.githubusercontent.com/57448127/272612221-606e7045-ad16-48e6-9125-011427d098cf.png
+
+- id: 202310.06
+  caption: Updated design of the Governance tab in Cryptopower (final implementation may differ)
+  notes:
+    - https://github.com/crypto-power/cryptopower/issues/130#issuecomment-1825987268
+    - https://user-images.githubusercontent.com/25265396/285527663-4759b70a-2202-4672-8a19-0fb8a113b331.png
+
+- id: 202310.07
+  caption: Mobile design of the Overview page in Cryptopower (final implementation may differ)
+  notes:
+    - https://github.com/crypto-power/cryptopower/issues/125
+    - https://user-images.githubusercontent.com/25265396/271427745-e4a6016e-4517-4718-bac7-6b27ef4407a2.png
+
+- id: 202310.08
+  caption: Treasury inflows and outflows in DCR
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202310.09
+  caption: Treasury monthly balance in USD; note that it heavily depends on the exchange rate
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202310.10
+  caption: Decred hashrate is now dominated by GPUs and measured in terahashes
+  notes:
+    - https://matrix.to/#/!TSpuyuYWgkTrgPTcXh:decred.org/$M7a1NpFwm9KRo0I3bGxhV35aEfIY_SN0q3dVAjLMCE4
+    - chart by @davecgh
+
+- id: 202310.11
+  caption: Relatively small uptick in ticket buying in the first week of October...
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202310.12
+  caption: ...triggered the biggest ticket price swing ever seen...
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202310.13
+  caption: Although for the total staked DCR chart it was just a correction
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202310.14
+  caption: A rare spike in [missed tickets](https://dcrdata.decred.org/charts?chart=missed-votes) occurred on October 4th
+  notes:
+    - https://dcrdata.decred.org/charts?chart=missed-votes
+
+- id: 202310.15
+  caption: Distribution of tickets managed by VSPs
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202310.16
+  caption: 83% of all tickets are held by hardcore solo voters who don't need a VSP
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202310.17
+  caption: 15% of nodes have upgraded to v1.8.1. The red area before Jan 2023 indicates incomplete data we had at that time.
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202310.18
+  caption: Unlike the staked DCR chart there was no dip in the mixed and unspent supply
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202310.19
+  caption: Monthly mixed DCR has set a new record
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202310.20
+  caption: Important psychological level of 200 DCR locked in Lightning Network has been broken
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202310.21
+  caption: My parents vs me in 20s by @Andrewke
+  notes:
+    - https://twitter.com/amorackeeeee/status/1708292636027781510
+
+- id: 202310.22
+  caption: Decred Onyl portfolio by @void
+  notes:
+    - https://twitter.com/CryptoDYOR/status/1716578563825025217
+
+- id: 202310.23
+  caption: Bison, Lightning work and to the moon by @real\_sussey
+  notes:
+    - https://twitter.com/real_sussey/status/1708600475560673512
+
+- id: 202310.24
+  caption: Price performance of DCR, DASH, and ZEC vs USD by @saender
+  notes:
+    - https://matrix.to/#/!lDZCzVQjFoJsXMPkvr:decred.org/$YmJjriH99ZW3DtpRDlTmdLz5KiXbuGz5Jl2jtAoheNw
+
+- id: 202310.25
+  caption: Market valuations (USD) based on @bochinchero's [Staked Realized Value](https://bochinchero.medium.com/decred-on-chain-staked-realised-value-444ab5a146d8) model
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202310.26
+  caption: Recent DCR/BTC, data from Coin Metrics
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202310.27
+  caption: Recent DCR/USD, data from Coin Metrics
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202310.28
+  caption: DCRDEX monthly volume in USD
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
