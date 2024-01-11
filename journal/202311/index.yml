@@ -1,0 +1,152 @@
+- id: 202311.01
+  caption: November cover by @Exitus
+
+- id: 202311.02
+  caption: Market Maker Settings UI in DCRDEX
+  notes:
+    - https://github.com/decred/dcrdex/pull/2587
+    - https://user-images.githubusercontent.com/6109680/279216080-5182202a-2792-4aa8-9160-334623013968.png
+
+- id: 202311.03
+  caption: DCRDEX will better expose the bond math and trading limits
+  notes:
+    - https://github.com/decred/dcrdex/pull/2575
+    - https://user-images.githubusercontent.com/6109680/277457385-30d067e3-7903-4531-bb2b-51723ae9c5ce.png
+
+- id: 202311.04
+  caption: Improved bond information in DCRDEX Settings
+  notes:
+    - https://github.com/decred/dcrdex/pull/2575#issuecomment-1802554044
+    - https://user-images.githubusercontent.com/6109680/281526344-f2a8726c-0076-4a03-99ea-c213d4de1be4.png
+
+- id: 202311.05
+  caption: Overview tab in Cryptopower
+  notes:
+    - https://github.com/crypto-power/cryptopower/pull/236
+    - https://user-images.githubusercontent.com/19331824/280445563-301ca5be-1a07-4b71-b933-5fdc1ce64a10.png
+
+- id: 202311.06
+  caption: Updated Settings in Cryptopower
+  notes:
+    - https://github.com/crypto-power/cryptopower/pull/228#issuecomment-1823808565
+    - https://user-images.githubusercontent.com/54014025/285100541-720c22b7-5845-484d-89c3-2e4a53c3b800.jpg
+
+- id: 202311.07
+  caption: Updated wallet overview in Cryptopower
+  notes:
+    - https://github.com/crypto-power/cryptopower/pull/247
+    - https://user-images.githubusercontent.com/27733432/285282357-63f96cbb-98b3-44e8-a01e-74d92d410403.png
+
+- id: 202311.08
+  caption: Mobile layout in Cryptopower (work in progress)
+  notes:
+    - https://user-images.githubusercontent.com/25265396/286353580-b84b8155-8a3c-4ef5-8f96-dfe1d4346665.png
+    - https://github.com/crypto-power/cryptopower/pull/226#discussion_r1408164225
+
+- id: 202311.09
+  caption: Treasury inflows and outflows in DCR
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202311.10
+  caption: Treasury monthly balance in USD; note that it heavily depends on the exchange rate
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202311.11
+  caption: Decred hashrate is seeking a new equilibrium after the initial influx of GPU miners
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202311.12
+  caption: The reduction of unique mining addresses suggests it is getting more centralized again
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202311.13
+  caption: Ticket price has stabilized pretty quickly
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202311.14
+  caption: DCR locked in tickets is staying near its ATH
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202311.15
+  caption: Among the other things, percentage of staked DCR indirectly shows how much of new emission is re-staked
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202311.16
+  caption: Distribution of tickets managed by VSPs
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202311.17
+  caption: Missed votes are back to low numbers
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202311.18
+  caption: Nodes are upgrading to v1.8.1. The red area before Jan 2023 indicates incomplete data we had at that time.
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202311.19
+  caption: Second big dip and recovery of daily DCR mixing
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202311.20
+  caption: More than 62% of circulating supply prefers privacy
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202311.21
+  caption: Some LN channels got closed
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202311.22
+  caption: LN node count stayed the same while the capacity increased a bit
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202311.23
+  caption: Trapped Bitcoin users looking at the cure, by [@yourkingroyal](https://twitter.com/yourkingroyal/status/1720035878318248374)
+  notes:
+    - https://twitter.com/yourkingroyal/status/1720035878318248374
+    - https://pbs.twimg.com/media/F97LgzXWoAAY74c.jpg
+
+- id: 202311.24
+  caption: An old Decred Moon Fuel art on [@wumudidi](https://twitter.com/wumudidi/status/1719539682999255443)'s cup
+  notes:
+    - https://twitter.com/wumudidi/status/1719539682999255443
+    - https://pbs.twimg.com/media/F90IOHLbAAAzr44.jpg
+
+- id: 202311.25
+  caption: Recent DCR/BTC, data from Coin Metrics
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202311.26
+  caption: All-time DCR/BTC, data from Coin Metrics
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202311.27
+  caption: Recent DCR/USD, data from Coin Metrics
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202311.28
+  caption: DCRDEX monthly volume in USD
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202311.29
+  caption: "A better long-term chart than a lot of people realize" by [@cburniske](https://twitter.com/cburniske/status/1729243261460734172)
+  notes:
+    - https://twitter.com/cburniske/status/1729243261460734172
+    - https://pbs.twimg.com/media/F_-BeqLaQAAtAm5.png
