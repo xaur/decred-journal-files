@@ -1,0 +1,116 @@
+- id: 202312.01
+  caption: December cover by @Exitus
+
+- id: 202312.02
+  caption: Cryptopower will support trading via the privacy-friendly [Trocador.app](https://trocador.app/)
+  notes:
+    - https://github.com/crypto-power/cryptopower/pull/257
+    - https://user-images.githubusercontent.com/84569563/283855490-9b795b2f-09a7-471d-a97e-36ffaa19c6e9.png
+
+- id: 202312.03
+  caption: Cryptopower is adding a lightweight UI for trading on DCRDEX
+  notes:
+    - https://github.com/crypto-power/cryptopower/pull/208
+    - https://user-images.githubusercontent.com/57448127/278518691-9fd353c1-6772-4ae3-a853-a3c3ad4f2647.png
+
+- id: 202312.04
+  caption: Cryptopower getting ready for mobile screens
+  notes:
+    - Composite image combining 3 vertical screenshots
+    - Part 1 https://github.com/crypto-power/cryptopower/pull/316
+    - Part 1 https://user-images.githubusercontent.com/19331824/289234427-b04075ee-9b24-4102-9277-3536cabd6a1c.png
+    - Part 2 https://github.com/crypto-power/cryptopower/pull/317
+    - Part 2 https://user-images.githubusercontent.com/19331824/289917715-17724dc6-e078-4c03-a163-ed30f607ff04.png
+    - Part 3 https://github.com/crypto-power/cryptopower/pull/339
+    - Part 3 https://user-images.githubusercontent.com/19331824/291520711-27120acd-00e6-4192-a1a5-32af3675c0e2.png
+
+- id: 202312.05
+  caption: Four wallet choices reflect a lot of development going on but users need guidance to find what's best for them
+  notes:
+    - https://github.com/decred/dcrweb/pull/1152
+    - https://user-images.githubusercontent.com/24484727/282920579-a84bd6bb-7d3b-42d2-8a61-788a3bc35793.png
+
+- id: 202312.06
+  caption: Treasury inflows and outflows in DCR
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202312.07
+  caption: Treasury monthly balance in USD; note that it heavily depends on the exchange rate
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202312.08
+  caption: Decred hashrate is seeking a new equilibrium after the initial influx of GPU miners
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202312.09
+  caption: The decline of unique mining addresses suggests it is getting more centralized again
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202312.10
+  caption: Ticket price has been very stable in December
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202312.11
+  caption: DCR locked in tickets is staying near its ATH
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202312.12
+  caption: Distribution of tickets managed by VSPs
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202312.13
+  caption: "[Solo voters](https://docs.decred.org/advanced/solo-proof-of-stake-voting/) continue to dominate, only 14% of tickets use VSPs"
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202312.14
+  caption: VSPs are better at not missing tickets than solo voters
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202312.15
+  caption: Nodes are slowly upgrading to v1.8.1. The red area before Jan 2023 indicates incomplete data we had at that time.
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202312.16
+  caption: 62% of circulating supply opts in to protect privacy and fungibility
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202312.17
+  caption: The Decred Lightning Network capacity remains around 200 DCR
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202312.18
+  caption: Recent DCR/BTC, data from Coin Metrics
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202312.19
+  caption: Recent DCR/USD, data from Coin Metrics
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202312.20
+  caption: DCRDEX monthly volume in USD
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202312.21
+  caption: Market valuations (USD) based on @bochinchero's [Staked Realized Value](https://bochinchero.medium.com/decred-on-chain-staked-realised-value-444ab5a146d8) model
+  notes:
+    - https://github.com/bochinchero/dcrsnapshots
+
+- id: 202312.22
+  caption: 3rd attempt to leave the perfect accumulation zone, by @saender
+  notes:
+    - https://matrix.to/#/!lDZCzVQjFoJsXMPkvr:decred.org/$WE3no_B5IqAFyTruv56gJ2dlrcIaLac-XmdlKWU1mxw
